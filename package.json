@@ -11,6 +11,7 @@
     "check:watch": "svelte-check --tsconfig ./tsconfig.json --watch"
   },
   "devDependencies": {
+    "@rgossiaux/svelte-headlessui": "^1.0.0",
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
     "svelte": "^3.44.0",
